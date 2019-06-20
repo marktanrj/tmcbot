@@ -5,5 +5,4 @@ module.exports = help =
 /v - Learn from these videos
 /ig - Follow us on Instagram
 /r - Get a random table topic
-/c - credits
 `;
